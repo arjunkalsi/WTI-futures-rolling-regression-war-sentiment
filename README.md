@@ -1,6 +1,8 @@
 # WTI-futures-rolling-regression-war-sentiment
 In this project we use a carry strategy to trade WTI futures, utilising a rolling regression and a Middle-Eastern war sentiment index.
 
+NOTE: PLEASE VISIT final project Arjun Arthur.ipynb FOR FULL JUPYTER NOTEBOOK AND RESULTS
+
 Project summary - Arjun Kalsi & Arthur Boissavy
 
 Investment Idea :
